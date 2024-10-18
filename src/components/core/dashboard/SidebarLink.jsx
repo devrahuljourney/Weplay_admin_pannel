@@ -28,8 +28,8 @@ export default function SidebarLink({ link }) {
   return (
     <Link
       to={link.path}
-      className={`flex items-center p-3 space-x-3 text-gray-600 transition-colors duration-300 hover:text-blue-600 hover:bg-gray-100 rounded-md ${
-        isActive ? "bg-blue-100 text-blue-600 font-semibold" : ""
+      className={`flex items-center p-3 space-x-3 text-gray-500 transition-colors duration-300 hover:text-blue-600 hover:bg-gray-100 rounded-md ${
+        isActive ? "bg-blue-100 text-gray-800 font-semibold" : ""
       }`}
     >
       {IconComponent && <IconComponent size={20} />}
