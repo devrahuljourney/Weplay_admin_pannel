@@ -1,7 +1,10 @@
 import React from 'react'
+import TournamentSlider from '../components/core/HomePage.jsx/TournamentSlider'
 
 export default function HomePage() {
   return (
-    <div>HomePage</div>
+    <div className='  ' >
+      <TournamentSlider/>
+    </div>
   )
 }

@@ -2,7 +2,7 @@ export const sidebarLinks = [
     {
       id: 1,
       name: "Home",
-      path: "/dashboard/home",
+      path: "/",
       icon: "VscHome",  
       library: "vsc",  
     },

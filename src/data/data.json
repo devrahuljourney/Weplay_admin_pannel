@@ -1,0 +1,126 @@
+{
+    "tournaments": [
+      {
+        "_id": "6706530a47872877048063c7",
+        "tournamentId": "live-tournament-001",
+        "type": "external",
+        "tournamentDescription": "The ultimate showdown of skills between top players.",
+        "tournamentTime": "2024-10-10T16:00:00.000+00:00",
+        "tournamentStatus": "live",
+        "title": "Champions League",
+        "isLiveVideo": true,
+        "videoLink": "https://example.com/live-champions-league",
+        "registerRoute": "/register-champions-league",
+        "location": "Los Angeles, USA",
+        "tournamentRulesDescription": "All players must follow the official tournament guidelines.",
+        "videoThumbnail": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pubg-game-tournament-poster-design-template-034c8b363092011715d173d7fc37da85_screen.jpg?ts=1698379969",
+        "roundDetails": {
+          "round1": {
+            "roundId": "R1",
+            "startTime": "2024-10-10T16:00:00.000+00:00",
+            "endTime": "2024-10-10T18:00:00.000+00:00",
+            "status": "Ongoing"
+          },
+          "round2": {
+            "roundId": "R2",
+            "startTime": "2024-10-11T16:00:00.000+00:00",
+            "endTime": "2024-10-11T18:00:00.000+00:00",
+            "status": "Scheduled"
+          }
+        }
+      },
+      {
+        "_id": "6706530a47872877048063c8",
+        "tournamentId": "live-tournament-002",
+        "type": "external",
+        "tournamentDescription": "A thrilling esports competition among top teams.",
+        "tournamentTime": "2024-10-15T12:00:00.000+00:00",
+        "tournamentStatus": "upcoming",
+        "title": "Esports Championship",
+        "isLiveVideo": true,
+        "videoLink": "https://example.com/live-esports-championship",
+        "registerRoute": "/register-esports-championship",
+        "location": "New York, USA",
+        "tournamentRulesDescription": "All participants must adhere to the tournament rules.",
+        "videoThumbnail": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pubg-game-tournament-poster-design-template-034c8b363092011715d173d7fc37da85_screen.jpg?ts=1698379969",
+        "roundDetails": {
+          "round1": {
+            "roundId": "R1",
+            "startTime": "2024-10-15T12:00:00.000+00:00",
+            "endTime": "2024-10-15T14:00:00.000+00:00",
+            "status": "Scheduled"
+          }
+        }
+      },
+      {
+        "_id": "6706530a47872877048063c9",
+        "tournamentId": "live-tournament-003",
+        "type": "external",
+        "tournamentDescription": "The most prestigious tennis tournament in the world.",
+        "tournamentTime": "2024-11-01T10:00:00.000+00:00",
+        "tournamentStatus": "upcoming",
+        "title": "Wimbledon",
+        "isLiveVideo": true,
+        "videoLink": "https://example.com/live-wimbledon",
+        "registerRoute": "/register-wimbledon",
+        "location": "London, UK",
+        "tournamentRulesDescription": "Players must follow the official Wimbledon rules.",
+        "videoThumbnail": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pubg-game-tournament-poster-design-template-034c8b363092011715d173d7fc37da85_screen.jpg?ts=1698379969",
+        "roundDetails": {
+          "round1": {
+            "roundId": "R1",
+            "startTime": "2024-11-01T10:00:00.000+00:00",
+            "endTime": "2024-11-01T12:00:00.000+00:00",
+            "status": "Scheduled"
+          }
+        }
+      },
+      {
+        "_id": "6706530a47872877048063ca",
+        "tournamentId": "live-tournament-004",
+        "type": "external",
+        "tournamentDescription": "A local basketball tournament showcasing young talent.",
+        "tournamentTime": "2024-10-20T15:00:00.000+00:00",
+        "tournamentStatus": "upcoming",
+        "title": "Youth Basketball League",
+        "isLiveVideo": false,
+        "videoLink": null,
+        "registerRoute": "/register-youth-basketball-league",
+        "location": "Chicago, USA",
+        "tournamentRulesDescription": "All games will follow NBA rules.",
+        "videoThumbnail": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pubg-game-tournament-poster-design-template-034c8b363092011715d173d7fc37da85_screen.jpg?ts=1698379969",
+        "roundDetails": {
+          "round1": {
+            "roundId": "R1",
+            "startTime": "2024-10-20T15:00:00.000+00:00",
+            "endTime": "2024-10-20T17:00:00.000+00:00",
+            "status": "Scheduled"
+          }
+        }
+      },
+      {
+        "_id": "6706530a47872877048063cb",
+        "tournamentId": "live-tournament-005",
+        "type": "external",
+        "tournamentDescription": "An exciting golf tournament for amateurs and pros alike.",
+        "tournamentTime": "2024-10-30T08:00:00.000+00:00",
+        "tournamentStatus": "upcoming",
+        "title": "Open Golf Championship",
+        "isLiveVideo": true,
+        "videoLink": "https://example.com/live-open-golf-championship",
+        "registerRoute": "/register-open-golf-championship",
+        "location": "San Francisco, USA",
+        "tournamentRulesDescription": "All players must follow the official golf rules.",
+        "videoThumbnail": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pubg-game-tournament-poster-design-template-034c8b363092011715d173d7fc37da85_screen.jpg?ts=1698379969",
+        "roundDetails": {
+          "round1": {
+            "roundId": "R1",
+            "startTime": "2024-10-30T08:00:00.000+00:00",
+            "endTime": "2024-10-30T10:00:00.000+00:00",
+            "status": "Scheduled"
+          }
+        }
+      }
+    ]
+  }
+  

@@ -4,7 +4,7 @@ import Router from './router/Router';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-custom-white  ">
       <Router/>
     </div>
   );
